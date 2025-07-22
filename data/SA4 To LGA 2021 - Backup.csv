@@ -1,0 +1,362 @@
+﻿SA4 Code 2021,SA4 Name,LGA Code 2021,LGA,State,Gcc Name21,LGA Area (sq km),SA4 Area (sq km),Row Number
+101,Capital Region,10470,Bathurst Regional,New South Wales,Rest of NSW,3817.8645,51896.2444,1
+101,Capital Region,10550,Bega Valley,New South Wales,Rest of NSW,6278.5013,51896.2444,2
+101,Capital Region,10800,Bland,New South Wales,Rest of NSW,8557.6536,51896.2444,3
+101,Capital Region,12160,Cootamundra-Gundagai Regional,New South Wales,Rest of NSW,3981.4172,51896.2444,4
+101,Capital Region,12350,Cowra,New South Wales,Rest of NSW,2808.7821,51896.2444,5
+101,Capital Region,12750,Eurobodalla,New South Wales,Rest of NSW,3428.1695,51896.2444,6
+101,Capital Region,13310,Goulburn Mulwaree,New South Wales,Rest of NSW,3220.0796,51896.2444,7
+101,Capital Region,13910,Hilltops,New South Wales,Rest of NSW,7140.8865,51896.2444,8
+101,Capital Region,16100,Oberon,New South Wales,Rest of NSW,3625.047,51896.2444,9
+101,Capital Region,16490,Queanbeyan-Palerang Regional,New South Wales,Rest of NSW,5319.0075,51896.2444,10
+101,Capital Region,16950,Shoalhaven,New South Wales,Rest of NSW,4567.2011,51896.2444,11
+101,Capital Region,17040,Snowy Monaro Regional,New South Wales,Rest of NSW,15164.7904,51896.2444,12
+101,Capital Region,17080,Snowy Valleys,New South Wales,Rest of NSW,8958.9215,51896.2444,13
+101,Capital Region,17350,Temora,New South Wales,Rest of NSW,2802.0159,51896.2444,14
+101,Capital Region,17640,Upper Lachlan Shire,New South Wales,Rest of NSW,7127.3957,51896.2444,15
+101,Capital Region,18100,Weddin,New South Wales,Rest of NSW,3414.8566,51896.2444,16
+101,Capital Region,18350,Wingecarribee,New South Wales,Rest of NSW,2689.3415,51896.2444,17
+101,Capital Region,18400,Wollondilly,New South Wales,Rest of NSW,2555.4341,51896.2444,18
+101,Capital Region,18710,Yass Valley,New South Wales,Rest of NSW,3995.017,51896.2444,19
+101,Capital Region,89399,Unincorporated ACT,Australian Capital Territory,Rest of NSW,2358.133,51896.2444,20
+102,Central Coast,11650,Central Coast (NSW),New South Wales,Greater Sydney,1681.0059,1681.0088,21
+102,Central Coast,11720,Cessnock,New South Wales,Greater Sydney,1965.1593,1681.0088,22
+102,Central Coast,13800,Hawkesbury,New South Wales,Greater Sydney,2775.1378,1681.0088,23
+102,Central Coast,14000,Hornsby,New South Wales,Greater Sydney,455.0374,1681.0088,24
+102,Central Coast,14650,Lake Macquarie,New South Wales,Greater Sydney,648.6393,1681.0088,25
+102,Central Coast,17420,The Hills Shire,New South Wales,Greater Sydney,386.1583,1681.0088,26
+103,Central West,10470,Bathurst Regional,New South Wales,Rest of NSW,3817.8645,70297.06,27
+103,Central West,10800,Bland,New South Wales,Rest of NSW,8557.6536,70297.06,28
+103,Central West,10850,Blayney,New South Wales,Rest of NSW,1524.647,70297.06,29
+103,Central West,10900,Blue Mountains,New South Wales,Rest of NSW,1431.1442,70297.06,30
+103,Central West,10950,Bogan,New South Wales,Rest of NSW,14599.8996,70297.06,31
+103,Central West,11400,Cabonne,New South Wales,Rest of NSW,6022.3496,70297.06,32
+103,Central West,11600,Carrathool,New South Wales,Rest of NSW,18934.4853,70297.06,33
+103,Central West,11750,Cobar,New South Wales,Rest of NSW,45575.3512,70297.06,34
+103,Central West,12000,Coolamon,New South Wales,Rest of NSW,2430.9037,70297.06,35
+103,Central West,12350,Cowra,New South Wales,Rest of NSW,2808.7821,70297.06,36
+103,Central West,12390,Dubbo Regional,New South Wales,Rest of NSW,7534.5251,70297.06,37
+103,Central West,12900,Forbes,New South Wales,Rest of NSW,4710.128,70297.06,38
+103,Central West,13800,Hawkesbury,New South Wales,Rest of NSW,2775.1378,70297.06,39
+103,Central West,13910,Hilltops,New South Wales,Rest of NSW,7140.8865,70297.06,40
+103,Central West,14600,Lachlan,New South Wales,Rest of NSW,14968.2539,70297.06,41
+103,Central West,14870,Lithgow,New South Wales,Rest of NSW,4512.2561,70297.06,42
+103,Central West,15270,Mid-Western Regional,New South Wales,Rest of NSW,8752.2589,70297.06,43
+103,Central West,15650,Muswellbrook,New South Wales,Rest of NSW,3404.8841,70297.06,44
+103,Central West,15800,Narrandera,New South Wales,Rest of NSW,4116.3458,70297.06,45
+103,Central West,15850,Narromine,New South Wales,Rest of NSW,5261.5165,70297.06,46
+103,Central West,16100,Oberon,New South Wales,Rest of NSW,3625.047,70297.06,47
+103,Central West,16150,Orange,New South Wales,Rest of NSW,284.2159,70297.06,48
+103,Central West,16200,Parkes,New South Wales,Rest of NSW,5957.6137,70297.06,49
+103,Central West,17000,Singleton,New South Wales,Rest of NSW,4892.7168,70297.06,50
+103,Central West,17350,Temora,New South Wales,Rest of NSW,2802.0159,70297.06,51
+103,Central West,17620,Upper Hunter Shire,New South Wales,Rest of NSW,8096.0889,70297.06,52
+103,Central West,17640,Upper Lachlan Shire,New South Wales,Rest of NSW,7127.3957,70297.06,53
+103,Central West,17950,Warren,New South Wales,Rest of NSW,10753.7672,70297.06,54
+103,Central West,18020,Warrumbungle Shire,New South Wales,Rest of NSW,12372.12,70297.06,55
+103,Central West,18100,Weddin,New South Wales,Rest of NSW,3414.8566,70297.06,56
+104,Coffs Harbour - Grafton,10180,Armidale Regional,New South Wales,Rest of NSW,7809.4406,13229.7577,57
+104,Coffs Harbour - Grafton,10600,Bellingen,New South Wales,Rest of NSW,1600.4338,13229.7577,58
+104,Coffs Harbour - Grafton,11730,Clarence Valley,New South Wales,Rest of NSW,10428.6804,13229.7577,59
+104,Coffs Harbour - Grafton,11800,Coffs Harbour,New South Wales,Rest of NSW,1173.7435,13229.7577,60
+104,Coffs Harbour - Grafton,13010,Glen Innes Severn,New South Wales,Rest of NSW,5479.977,13229.7577,61
+104,Coffs Harbour - Grafton,14350,Kempsey,New South Wales,Rest of NSW,3375.6704,13229.7577,62
+104,Coffs Harbour - Grafton,14550,Kyogle,New South Wales,Rest of NSW,3584.1829,13229.7577,63
+104,Coffs Harbour - Grafton,15700,Nambucca Valley,New South Wales,Rest of NSW,1491.3431,13229.7577,64
+104,Coffs Harbour - Grafton,16610,Richmond Valley,New South Wales,Rest of NSW,3047.3748,13229.7577,65
+104,Coffs Harbour - Grafton,17400,Tenterfield,New South Wales,Rest of NSW,7324.3072,13229.7577,66
+105,Far West and Orana,10300,Balranald,New South Wales,Rest of NSW,21690.7493,339355.6461,67
+105,Far West and Orana,10950,Bogan,New South Wales,Rest of NSW,14599.8996,339355.6461,68
+105,Far West and Orana,11150,Bourke,New South Wales,Rest of NSW,41598.3722,339355.6461,69
+105,Far West and Orana,11200,Brewarrina,New South Wales,Rest of NSW,19162.0296,339355.6461,70
+105,Far West and Orana,11250,Broken Hill,New South Wales,Rest of NSW,170.1153,339355.6461,71
+105,Far West and Orana,11400,Cabonne,New South Wales,Rest of NSW,6022.3496,339355.6461,72
+105,Far West and Orana,11600,Carrathool,New South Wales,Rest of NSW,18934.4853,339355.6461,73
+105,Far West and Orana,11700,Central Darling,New South Wales,Rest of NSW,53492.193,339355.6461,74
+105,Far West and Orana,11750,Cobar,New South Wales,Rest of NSW,45575.3512,339355.6461,75
+105,Far West and Orana,12150,Coonamble,New South Wales,Rest of NSW,9916.0535,339355.6461,76
+105,Far West and Orana,12390,Dubbo Regional,New South Wales,Rest of NSW,7534.5251,339355.6461,77
+105,Far West and Orana,12950,Gilgandra,New South Wales,Rest of NSW,4831.5057,339355.6461,78
+105,Far West and Orana,13550,Gunnedah,New South Wales,Rest of NSW,4987.0295,339355.6461,79
+105,Far West and Orana,14600,Lachlan,New South Wales,Rest of NSW,14968.2539,339355.6461,80
+105,Far West and Orana,14920,Liverpool Plains,New South Wales,Rest of NSW,5082.2398,339355.6461,81
+105,Far West and Orana,15270,Mid-Western Regional,New South Wales,Rest of NSW,8752.2589,339355.6461,82
+105,Far West and Orana,15300,Moree Plains,New South Wales,Rest of NSW,17902.7033,339355.6461,83
+105,Far West and Orana,15750,Narrabri,New South Wales,Rest of NSW,13014.9937,339355.6461,84
+105,Far West and Orana,15850,Narromine,New South Wales,Rest of NSW,5261.5165,339355.6461,85
+105,Far West and Orana,16200,Parkes,New South Wales,Rest of NSW,5957.6137,339355.6461,86
+105,Far West and Orana,17620,Upper Hunter Shire,New South Wales,Rest of NSW,8096.0889,339355.6461,87
+105,Far West and Orana,17900,Walgett,New South Wales,Rest of NSW,22308.2528,339355.6461,88
+105,Far West and Orana,17950,Warren,New South Wales,Rest of NSW,10753.7672,339355.6461,89
+105,Far West and Orana,18020,Warrumbungle Shire,New South Wales,Rest of NSW,12372.12,339355.6461,90
+105,Far West and Orana,18200,Wentworth,New South Wales,Rest of NSW,26255.9338,339355.6461,91
+105,Far West and Orana,19399,Unincorporated NSW,New South Wales,Rest of NSW,93208.9194,339355.6461,92
+106,Hunter Valley exc Newcastle,11650,Central Coast (NSW),New South Wales,Rest of NSW,1681.0059,21491.2917,93
+106,Hunter Valley exc Newcastle,11720,Cessnock,New South Wales,Rest of NSW,1965.1593,21491.2917,94
+106,Hunter Valley exc Newcastle,12700,Dungog,New South Wales,Rest of NSW,2249.9983,21491.2917,95
+106,Hunter Valley exc Newcastle,13800,Hawkesbury,New South Wales,Rest of NSW,2775.1378,21491.2917,96
+106,Hunter Valley exc Newcastle,14650,Lake Macquarie,New South Wales,Rest of NSW,648.6393,21491.2917,97
+106,Hunter Valley exc Newcastle,14870,Lithgow,New South Wales,Rest of NSW,4512.2561,21491.2917,98
+106,Hunter Valley exc Newcastle,14920,Liverpool Plains,New South Wales,Rest of NSW,5082.2398,21491.2917,99
+106,Hunter Valley exc Newcastle,15050,Maitland,New South Wales,Rest of NSW,391.5089,21491.2917,100
+106,Hunter Valley exc Newcastle,15240,Mid-Coast,New South Wales,Rest of NSW,10053.8633,21491.2917,101
+106,Hunter Valley exc Newcastle,15270,Mid-Western Regional,New South Wales,Rest of NSW,8752.2589,21491.2917,102
+106,Hunter Valley exc Newcastle,15650,Muswellbrook,New South Wales,Rest of NSW,3404.8841,21491.2917,103
+106,Hunter Valley exc Newcastle,15900,Newcastle,New South Wales,Rest of NSW,186.7255,21491.2917,104
+106,Hunter Valley exc Newcastle,16400,Port Stephens,New South Wales,Rest of NSW,858.4357,21491.2917,105
+106,Hunter Valley exc Newcastle,17000,Singleton,New South Wales,Rest of NSW,4892.7168,21491.2917,106
+106,Hunter Valley exc Newcastle,17310,Tamworth Regional,New South Wales,Rest of NSW,9884.3505,21491.2917,107
+106,Hunter Valley exc Newcastle,17620,Upper Hunter Shire,New South Wales,Rest of NSW,8096.0889,21491.2917,108
+106,Hunter Valley exc Newcastle,17850,Walcha,New South Wales,Rest of NSW,6261.0243,21491.2917,109
+106,Hunter Valley exc Newcastle,18020,Warrumbungle Shire,New South Wales,Rest of NSW,12372.12,21491.2917,110
+107,Illawarra,11500,Campbelltown (NSW),New South Wales,Rest of NSW,311.4117,1539.2405,111
+107,Illawarra,14400,Kiama,New South Wales,Rest of NSW,257.6638,1539.2405,112
+107,Illawarra,16900,Shellharbour,New South Wales,Rest of NSW,147.4208,1539.2405,113
+107,Illawarra,16950,Shoalhaven,New South Wales,Rest of NSW,4567.2011,1539.2405,114
+107,Illawarra,17150,Sutherland Shire,New South Wales,Rest of NSW,333.5806,1539.2405,115
+107,Illawarra,18350,Wingecarribee,New South Wales,Rest of NSW,2689.3415,1539.2405,116
+107,Illawarra,18400,Wollondilly,New South Wales,Rest of NSW,2555.4341,1539.2405,117
+107,Illawarra,18450,Wollongong,New South Wales,Rest of NSW,684.3076,1539.2405,118
+108,Mid North Coast,10180,Armidale Regional,New South Wales,Rest of NSW,7809.4406,18851.4986,119
+108,Mid North Coast,10600,Bellingen,New South Wales,Rest of NSW,1600.4338,18851.4986,120
+108,Mid North Coast,12700,Dungog,New South Wales,Rest of NSW,2249.9983,18851.4986,121
+108,Mid North Coast,14350,Kempsey,New South Wales,Rest of NSW,3375.6704,18851.4986,122
+108,Mid North Coast,15240,Mid-Coast,New South Wales,Rest of NSW,10053.8633,18851.4986,123
+108,Mid North Coast,15700,Nambucca Valley,New South Wales,Rest of NSW,1491.3431,18851.4986,124
+108,Mid North Coast,16380,Port Macquarie-Hastings,New South Wales,Rest of NSW,3682.3915,18851.4986,125
+108,Mid North Coast,16400,Port Stephens,New South Wales,Rest of NSW,858.4357,18851.4986,126
+108,Mid North Coast,17620,Upper Hunter Shire,New South Wales,Rest of NSW,8096.0889,18851.4986,127
+108,Mid North Coast,17850,Walcha,New South Wales,Rest of NSW,6261.0243,18851.4986,128
+108,Mid North Coast,19399,Unincorporated NSW,New South Wales,Rest of NSW,93208.9194,18851.4986,129
+109,Murray,10050,Albury,New South Wales,Rest of NSW,305.6386,97796.4898,130
+109,Murray,10300,Balranald,New South Wales,Rest of NSW,21690.7493,97796.4898,131
+109,Murray,10650,Berrigan,New South Wales,Rest of NSW,2065.8878,97796.4898,132
+109,Murray,11600,Carrathool,New South Wales,Rest of NSW,18934.4853,97796.4898,133
+109,Murray,11700,Central Darling,New South Wales,Rest of NSW,53492.193,97796.4898,134
+109,Murray,12730,Edward River,New South Wales,Rest of NSW,8883.4463,97796.4898,135
+109,Murray,12870,Federation,New South Wales,Rest of NSW,5684.9253,97796.4898,136
+109,Murray,13340,Greater Hume Shire,New South Wales,Rest of NSW,5749.3875,97796.4898,137
+109,Murray,13850,Hay,New South Wales,Rest of NSW,11325.9324,97796.4898,138
+109,Murray,14950,Lockhart,New South Wales,Rest of NSW,2895.8049,97796.4898,139
+109,Murray,15520,Murray River,New South Wales,Rest of NSW,11863.0162,97796.4898,140
+109,Murray,15560,Murrumbidgee,New South Wales,Rest of NSW,6880.7902,97796.4898,141
+109,Murray,17080,Snowy Valleys,New South Wales,Rest of NSW,8958.9215,97796.4898,142
+109,Murray,17750,Wagga Wagga,New South Wales,Rest of NSW,4824.4888,97796.4898,143
+109,Murray,18200,Wentworth,New South Wales,Rest of NSW,26255.9338,97796.4898,144
+109,Murray,19399,Unincorporated NSW,New South Wales,Rest of NSW,93208.9194,97796.4898,145
+110,New England and North West,10180,Armidale Regional,New South Wales,Rest of NSW,7809.4406,99139.8999,146
+110,New England and North West,10600,Bellingen,New South Wales,Rest of NSW,1600.4338,99139.8999,147
+110,New England and North West,11730,Clarence Valley,New South Wales,Rest of NSW,10428.6804,99139.8999,148
+110,New England and North West,12150,Coonamble,New South Wales,Rest of NSW,9916.0535,99139.8999,149
+110,New England and North West,13010,Glen Innes Severn,New South Wales,Rest of NSW,5479.977,99139.8999,150
+110,New England and North West,13550,Gunnedah,New South Wales,Rest of NSW,4987.0295,99139.8999,151
+110,New England and North West,13660,Gwydir,New South Wales,Rest of NSW,9259.6544,99139.8999,152
+110,New England and North West,14220,Inverell,New South Wales,Rest of NSW,9404.7564,99139.8999,153
+110,New England and North West,14350,Kempsey,New South Wales,Rest of NSW,3375.6704,99139.8999,154
+110,New England and North West,14550,Kyogle,New South Wales,Rest of NSW,3584.1829,99139.8999,155
+110,New England and North West,14920,Liverpool Plains,New South Wales,Rest of NSW,5082.2398,99139.8999,156
+110,New England and North West,15240,Mid-Coast,New South Wales,Rest of NSW,10053.8633,99139.8999,157
+110,New England and North West,15300,Moree Plains,New South Wales,Rest of NSW,17902.7033,99139.8999,158
+110,New England and North West,15700,Nambucca Valley,New South Wales,Rest of NSW,1491.3431,99139.8999,159
+110,New England and North West,15750,Narrabri,New South Wales,Rest of NSW,13014.9937,99139.8999,160
+110,New England and North West,16380,Port Macquarie-Hastings,New South Wales,Rest of NSW,3682.3915,99139.8999,161
+110,New England and North West,17310,Tamworth Regional,New South Wales,Rest of NSW,9884.3505,99139.8999,162
+110,New England and North West,17400,Tenterfield,New South Wales,Rest of NSW,7324.3072,99139.8999,163
+110,New England and North West,17620,Upper Hunter Shire,New South Wales,Rest of NSW,8096.0889,99139.8999,164
+110,New England and North West,17650,Uralla,New South Wales,Rest of NSW,3226.5327,99139.8999,165
+110,New England and North West,17850,Walcha,New South Wales,Rest of NSW,6261.0243,99139.8999,166
+110,New England and North West,17900,Walgett,New South Wales,Rest of NSW,22308.2528,99139.8999,167
+110,New England and North West,18020,Warrumbungle Shire,New South Wales,Rest of NSW,12372.12,99139.8999,168
+111,Newcastle and Lake Macquarie,11650,Central Coast (NSW),New South Wales,Rest of NSW,1681.0059,870.5821,169
+111,Newcastle and Lake Macquarie,11720,Cessnock,New South Wales,Rest of NSW,1965.1593,870.5821,170
+111,Newcastle and Lake Macquarie,14650,Lake Macquarie,New South Wales,Rest of NSW,648.6393,870.5821,171
+111,Newcastle and Lake Macquarie,15050,Maitland,New South Wales,Rest of NSW,391.5089,870.5821,172
+111,Newcastle and Lake Macquarie,15900,Newcastle,New South Wales,Rest of NSW,186.7255,870.5821,173
+111,Newcastle and Lake Macquarie,16400,Port Stephens,New South Wales,Rest of NSW,858.4357,870.5821,174
+112,Richmond - Tweed,10250,Ballina,New South Wales,Rest of NSW,484.9692,10271.3201,175
+112,Richmond - Tweed,11350,Byron,New South Wales,Rest of NSW,565.8027,10271.3201,176
+112,Richmond - Tweed,11730,Clarence Valley,New South Wales,Rest of NSW,10428.6804,10271.3201,177
+112,Richmond - Tweed,14550,Kyogle,New South Wales,Rest of NSW,3584.1829,10271.3201,178
+112,Richmond - Tweed,14850,Lismore,New South Wales,Rest of NSW,1287.7042,10271.3201,179
+112,Richmond - Tweed,16610,Richmond Valley,New South Wales,Rest of NSW,3047.3748,10271.3201,180
+112,Richmond - Tweed,17400,Tenterfield,New South Wales,Rest of NSW,7324.3072,10271.3201,181
+112,Richmond - Tweed,17550,Tweed,New South Wales,Rest of NSW,1307.7853,10271.3201,182
+113,Riverina,10800,Bland,New South Wales,Rest of NSW,8557.6536,56984.9805,183
+113,Riverina,11600,Carrathool,New South Wales,Rest of NSW,18934.4853,56984.9805,184
+113,Riverina,11700,Central Darling,New South Wales,Rest of NSW,53492.193,56984.9805,185
+113,Riverina,11750,Cobar,New South Wales,Rest of NSW,45575.3512,56984.9805,186
+113,Riverina,12000,Coolamon,New South Wales,Rest of NSW,2430.9037,56984.9805,187
+113,Riverina,12160,Cootamundra-Gundagai Regional,New South Wales,Rest of NSW,3981.4172,56984.9805,188
+113,Riverina,12730,Edward River,New South Wales,Rest of NSW,8883.4463,56984.9805,189
+113,Riverina,12870,Federation,New South Wales,Rest of NSW,5684.9253,56984.9805,190
+113,Riverina,13340,Greater Hume Shire,New South Wales,Rest of NSW,5749.3875,56984.9805,191
+113,Riverina,13450,Griffith,New South Wales,Rest of NSW,1639.1732,56984.9805,192
+113,Riverina,13850,Hay,New South Wales,Rest of NSW,11325.9324,56984.9805,193
+113,Riverina,13910,Hilltops,New South Wales,Rest of NSW,7140.8865,56984.9805,194
+113,Riverina,14300,Junee,New South Wales,Rest of NSW,2030.0222,56984.9805,195
+113,Riverina,14600,Lachlan,New South Wales,Rest of NSW,14968.2539,56984.9805,196
+113,Riverina,14750,Leeton,New South Wales,Rest of NSW,1167.1876,56984.9805,197
+113,Riverina,14950,Lockhart,New South Wales,Rest of NSW,2895.8049,56984.9805,198
+113,Riverina,15560,Murrumbidgee,New South Wales,Rest of NSW,6880.7902,56984.9805,199
+113,Riverina,15800,Narrandera,New South Wales,Rest of NSW,4116.3458,56984.9805,200
+113,Riverina,17040,Snowy Monaro Regional,New South Wales,Rest of NSW,15164.7904,56984.9805,201
+113,Riverina,17080,Snowy Valleys,New South Wales,Rest of NSW,8958.9215,56984.9805,202
+113,Riverina,17350,Temora,New South Wales,Rest of NSW,2802.0159,56984.9805,203
+113,Riverina,17750,Wagga Wagga,New South Wales,Rest of NSW,4824.4888,56984.9805,204
+113,Riverina,18710,Yass Valley,New South Wales,Rest of NSW,3995.017,56984.9805,205
+113,Riverina,89399,Unincorporated ACT,Australian Capital Territory,Rest of NSW,2358.133,56984.9805,206
+114,Southern Highlands and Shoalhaven,12750,Eurobodalla,New South Wales,Rest of NSW,3428.1695,6704.9619,207
+114,Southern Highlands and Shoalhaven,13310,Goulburn Mulwaree,New South Wales,Rest of NSW,3220.0796,6704.9619,208
+114,Southern Highlands and Shoalhaven,14400,Kiama,New South Wales,Rest of NSW,257.6638,6704.9619,209
+114,Southern Highlands and Shoalhaven,16490,Queanbeyan-Palerang Regional,New South Wales,Rest of NSW,5319.0075,6704.9619,210
+114,Southern Highlands and Shoalhaven,16900,Shellharbour,New South Wales,Rest of NSW,147.4208,6704.9619,211
+114,Southern Highlands and Shoalhaven,16950,Shoalhaven,New South Wales,Rest of NSW,4567.2011,6704.9619,212
+114,Southern Highlands and Shoalhaven,17640,Upper Lachlan Shire,New South Wales,Rest of NSW,7127.3957,6704.9619,213
+114,Southern Highlands and Shoalhaven,18350,Wingecarribee,New South Wales,Rest of NSW,2689.3415,6704.9619,214
+114,Southern Highlands and Shoalhaven,18400,Wollondilly,New South Wales,Rest of NSW,2555.4341,6704.9619,215
+114,Southern Highlands and Shoalhaven,18450,Wollongong,New South Wales,Rest of NSW,684.3076,6704.9619,216
+114,Southern Highlands and Shoalhaven,99399,Unincorp. Other Territories,Other Territories,Rest of NSW,105.8806,6704.9619,217
+115,Sydney - Baulkham Hills and Hawkesbury,10750,Blacktown,New South Wales,Greater Sydney,238.8471,3251.4981,218
+115,Sydney - Baulkham Hills and Hawkesbury,10900,Blue Mountains,New South Wales,Greater Sydney,1431.1442,3251.4981,219
+115,Sydney - Baulkham Hills and Hawkesbury,11650,Central Coast (NSW),New South Wales,Greater Sydney,1681.0059,3251.4981,220
+115,Sydney - Baulkham Hills and Hawkesbury,11720,Cessnock,New South Wales,Greater Sydney,1965.1593,3251.4981,221
+115,Sydney - Baulkham Hills and Hawkesbury,13800,Hawkesbury,New South Wales,Greater Sydney,2775.1378,3251.4981,222
+115,Sydney - Baulkham Hills and Hawkesbury,14000,Hornsby,New South Wales,Greater Sydney,455.0374,3251.4981,223
+115,Sydney - Baulkham Hills and Hawkesbury,14870,Lithgow,New South Wales,Greater Sydney,4512.2561,3251.4981,224
+115,Sydney - Baulkham Hills and Hawkesbury,16260,Parramatta,New South Wales,Greater Sydney,83.8303,3251.4981,225
+115,Sydney - Baulkham Hills and Hawkesbury,17000,Singleton,New South Wales,Greater Sydney,4892.7168,3251.4981,226
+115,Sydney - Baulkham Hills and Hawkesbury,17420,The Hills Shire,New South Wales,Greater Sydney,386.1583,3251.4981,227
+116,Sydney - Blacktown,10750,Blacktown,New South Wales,Greater Sydney,238.8471,240.8835,228
+116,Sydney - Blacktown,12380,Cumberland,New South Wales,Greater Sydney,72.7496,240.8835,229
+116,Sydney - Blacktown,12850,Fairfield,New South Wales,Greater Sydney,101.5072,240.8835,230
+116,Sydney - Blacktown,13800,Hawkesbury,New South Wales,Greater Sydney,2775.1378,240.8835,231
+116,Sydney - Blacktown,16260,Parramatta,New South Wales,Greater Sydney,83.8303,240.8835,232
+116,Sydney - Blacktown,16350,Penrith,New South Wales,Greater Sydney,404.7021,240.8835,233
+116,Sydney - Blacktown,17420,The Hills Shire,New South Wales,Greater Sydney,386.1583,240.8835,234
+117,Sydney - City and Inner South,10500,Bayside (NSW),New South Wales,Greater Sydney,50.6204,66.1035,235
+117,Sydney - City and Inner South,11570,Canterbury-Bankstown,New South Wales,Greater Sydney,110.2374,66.1035,236
+117,Sydney - City and Inner South,14170,Inner West,New South Wales,Greater Sydney,35.2115,66.1035,237
+117,Sydney - City and Inner South,16550,Randwick,New South Wales,Greater Sydney,36.331,66.1035,238
+117,Sydney - City and Inner South,17200,Sydney,New South Wales,Greater Sydney,26.6762,66.1035,239
+117,Sydney - City and Inner South,18500,Woollahra,New South Wales,Greater Sydney,12.2584,66.1035,240
+117,Sydney - City and Inner South,19399,Unincorporated NSW,New South Wales,Greater Sydney,93208.9194,66.1035,241
+118,Sydney - Eastern Suburbs,10500,Bayside (NSW),New South Wales,Greater Sydney,50.6204,57.7342,242
+118,Sydney - Eastern Suburbs,16550,Randwick,New South Wales,Greater Sydney,36.331,57.7342,243
+118,Sydney - Eastern Suburbs,17200,Sydney,New South Wales,Greater Sydney,26.6762,57.7342,244
+118,Sydney - Eastern Suburbs,18050,Waverley,New South Wales,Greater Sydney,9.3506,57.7342,245
+118,Sydney - Eastern Suburbs,18500,Woollahra,New South Wales,Greater Sydney,12.2584,57.7342,246
+118,Sydney - Eastern Suburbs,19399,Unincorporated NSW,New South Wales,Greater Sydney,93208.9194,57.7342,247
+119,Sydney - Inner South West,10500,Bayside (NSW),New South Wales,Greater Sydney,50.6204,163.9272,248
+119,Sydney - Inner South West,11300,Burwood,New South Wales,Greater Sydney,7.1282,163.9272,249
+119,Sydney - Inner South West,11570,Canterbury-Bankstown,New South Wales,Greater Sydney,110.2374,163.9272,250
+119,Sydney - Inner South West,12380,Cumberland,New South Wales,Greater Sydney,72.7496,163.9272,251
+119,Sydney - Inner South West,12850,Fairfield,New South Wales,Greater Sydney,101.5072,163.9272,252
+119,Sydney - Inner South West,12930,Georges River,New South Wales,Greater Sydney,38.3375,163.9272,253
+119,Sydney - Inner South West,14170,Inner West,New South Wales,Greater Sydney,35.2115,163.9272,254
+119,Sydney - Inner South West,14900,Liverpool,New South Wales,Greater Sydney,305.7401,163.9272,255
+119,Sydney - Inner South West,17100,Strathfield,New South Wales,Greater Sydney,14.0008,163.9272,256
+119,Sydney - Inner South West,17150,Sutherland Shire,New South Wales,Greater Sydney,333.5806,163.9272,257
+120,Sydney - Inner West,11300,Burwood,New South Wales,Greater Sydney,7.1282,64.5491,258
+120,Sydney - Inner West,11520,Canada Bay,New South Wales,Greater Sydney,19.9239,64.5491,259
+120,Sydney - Inner West,11570,Canterbury-Bankstown,New South Wales,Greater Sydney,110.2374,64.5491,260
+120,Sydney - Inner West,12380,Cumberland,New South Wales,Greater Sydney,72.7496,64.5491,261
+120,Sydney - Inner West,14170,Inner West,New South Wales,Greater Sydney,35.2115,64.5491,262
+120,Sydney - Inner West,16260,Parramatta,New South Wales,Greater Sydney,83.8303,64.5491,263
+120,Sydney - Inner West,17100,Strathfield,New South Wales,Greater Sydney,14.0008,64.5491,264
+120,Sydney - Inner West,17200,Sydney,New South Wales,Greater Sydney,26.6762,64.5491,265
+121,Sydney - North Sydney and Hornsby,14000,Hornsby,New South Wales,Greater Sydney,455.0374,275.0994,266
+121,Sydney - North Sydney and Hornsby,14500,Ku-ring-gai,New South Wales,Greater Sydney,85.4093,275.0994,267
+121,Sydney - North Sydney and Hornsby,14700,Lane Cove,New South Wales,Greater Sydney,10.4789,275.0994,268
+121,Sydney - North Sydney and Hornsby,15350,Mosman,New South Wales,Greater Sydney,8.6503,275.0994,269
+121,Sydney - North Sydney and Hornsby,15950,North Sydney,New South Wales,Greater Sydney,10.491,275.0994,270
+121,Sydney - North Sydney and Hornsby,15990,Northern Beaches,New South Wales,Greater Sydney,254.2072,275.0994,271
+121,Sydney - North Sydney and Hornsby,16700,Ryde,New South Wales,Greater Sydney,40.4746,275.0994,272
+121,Sydney - North Sydney and Hornsby,18250,Willoughby,New South Wales,Greater Sydney,22.4257,275.0994,273
+122,Sydney - Northern Beaches,14500,Ku-ring-gai,New South Wales,Greater Sydney,85.4093,254.2072,274
+122,Sydney - Northern Beaches,15990,Northern Beaches,New South Wales,Greater Sydney,254.2072,254.2072,275
+123,Sydney - Outer South West,11450,Camden,New South Wales,Greater Sydney,201.5278,1277.2421,276
+123,Sydney - Outer South West,11500,Campbelltown (NSW),New South Wales,Greater Sydney,311.4117,1277.2421,277
+123,Sydney - Outer South West,14900,Liverpool,New South Wales,Greater Sydney,305.7401,1277.2421,278
+123,Sydney - Outer South West,17150,Sutherland Shire,New South Wales,Greater Sydney,333.5806,1277.2421,279
+123,Sydney - Outer South West,18350,Wingecarribee,New South Wales,Greater Sydney,2689.3415,1277.2421,280
+123,Sydney - Outer South West,18400,Wollondilly,New South Wales,Greater Sydney,2555.4341,1277.2421,281
+123,Sydney - Outer South West,18450,Wollongong,New South Wales,Greater Sydney,684.3076,1277.2421,282
+124,Sydney - Outer West and Blue Mountains,10750,Blacktown,New South Wales,Greater Sydney,238.8471,3968.1294,283
+124,Sydney - Outer West and Blue Mountains,10900,Blue Mountains,New South Wales,Greater Sydney,1431.1442,3968.1294,284
+124,Sydney - Outer West and Blue Mountains,12850,Fairfield,New South Wales,Greater Sydney,101.5072,3968.1294,285
+124,Sydney - Outer West and Blue Mountains,13800,Hawkesbury,New South Wales,Greater Sydney,2775.1378,3968.1294,286
+124,Sydney - Outer West and Blue Mountains,14870,Lithgow,New South Wales,Greater Sydney,4512.2561,3968.1294,287
+124,Sydney - Outer West and Blue Mountains,14900,Liverpool,New South Wales,Greater Sydney,305.7401,3968.1294,288
+124,Sydney - Outer West and Blue Mountains,16100,Oberon,New South Wales,Greater Sydney,3625.047,3968.1294,289
+124,Sydney - Outer West and Blue Mountains,16350,Penrith,New South Wales,Greater Sydney,404.7021,3968.1294,290
+124,Sydney - Outer West and Blue Mountains,17640,Upper Lachlan Shire,New South Wales,Greater Sydney,7127.3957,3968.1294,291
+124,Sydney - Outer West and Blue Mountains,18350,Wingecarribee,New South Wales,Greater Sydney,2689.3415,3968.1294,292
+124,Sydney - Outer West and Blue Mountains,18400,Wollondilly,New South Wales,Greater Sydney,2555.4341,3968.1294,293
+125,Sydney - Parramatta,10750,Blacktown,New South Wales,Greater Sydney,238.8471,162.835,294
+125,Sydney - Parramatta,11520,Canada Bay,New South Wales,Greater Sydney,19.9239,162.835,295
+125,Sydney - Parramatta,11570,Canterbury-Bankstown,New South Wales,Greater Sydney,110.2374,162.835,296
+125,Sydney - Parramatta,12380,Cumberland,New South Wales,Greater Sydney,72.7496,162.835,297
+125,Sydney - Parramatta,12850,Fairfield,New South Wales,Greater Sydney,101.5072,162.835,298
+125,Sydney - Parramatta,14000,Hornsby,New South Wales,Greater Sydney,455.0374,162.835,299
+125,Sydney - Parramatta,16260,Parramatta,New South Wales,Greater Sydney,83.8303,162.835,300
+125,Sydney - Parramatta,16700,Ryde,New South Wales,Greater Sydney,40.4746,162.835,301
+125,Sydney - Parramatta,17100,Strathfield,New South Wales,Greater Sydney,14.0008,162.835,302
+125,Sydney - Parramatta,17420,The Hills Shire,New South Wales,Greater Sydney,386.1583,162.835,303
+126,Sydney - Ryde,14000,Hornsby,New South Wales,Greater Sydney,455.0374,69.3368,304
+126,Sydney - Ryde,14100,Hunters Hill,New South Wales,Greater Sydney,5.7169,69.3368,305
+126,Sydney - Ryde,14500,Ku-ring-gai,New South Wales,Greater Sydney,85.4093,69.3368,306
+126,Sydney - Ryde,16260,Parramatta,New South Wales,Greater Sydney,83.8303,69.3368,307
+126,Sydney - Ryde,16700,Ryde,New South Wales,Greater Sydney,40.4746,69.3368,308
+126,Sydney - Ryde,17420,The Hills Shire,New South Wales,Greater Sydney,386.1583,69.3368,309
+126,Sydney - Ryde,18250,Willoughby,New South Wales,Greater Sydney,22.4257,69.3368,310
+127,Sydney - South West,10750,Blacktown,New South Wales,Greater Sydney,238.8471,540.279,311
+127,Sydney - South West,11450,Camden,New South Wales,Greater Sydney,201.5278,540.279,312
+127,Sydney - South West,11500,Campbelltown (NSW),New South Wales,Greater Sydney,311.4117,540.279,313
+127,Sydney - South West,11570,Canterbury-Bankstown,New South Wales,Greater Sydney,110.2374,540.279,314
+127,Sydney - South West,12380,Cumberland,New South Wales,Greater Sydney,72.7496,540.279,315
+127,Sydney - South West,12850,Fairfield,New South Wales,Greater Sydney,101.5072,540.279,316
+127,Sydney - South West,14900,Liverpool,New South Wales,Greater Sydney,305.7401,540.279,317
+127,Sydney - South West,16350,Penrith,New South Wales,Greater Sydney,404.7021,540.279,318
+127,Sydney - South West,17150,Sutherland Shire,New South Wales,Greater Sydney,333.5806,540.279,319
+127,Sydney - South West,18400,Wollondilly,New South Wales,Greater Sydney,2555.4341,540.279,320
+128,Sydney - Sutherland,11570,Canterbury-Bankstown,New South Wales,Greater Sydney,110.2374,295.8525,321
+128,Sydney - Sutherland,14900,Liverpool,New South Wales,Greater Sydney,305.7401,295.8525,322
+128,Sydney - Sutherland,17150,Sutherland Shire,New South Wales,Greater Sydney,333.5806,295.8525,323
+128,Sydney - Sutherland,18450,Wollongong,New South Wales,Greater Sydney,684.3076,295.8525,324
+204,Hume,10050,Albury,New South Wales,Rest of Vic.,305.6386,34006.4765,325
+204,Hume,12870,Federation,New South Wales,Rest of Vic.,5684.9253,34006.4765,326
+204,Hume,13340,Greater Hume Shire,New South Wales,Rest of Vic.,5749.3875,34006.4765,327
+204,Hume,17080,Snowy Valleys,New South Wales,Rest of Vic.,8958.9215,34006.4765,328
+205,Latrobe - Gippsland,10550,Bega Valley,New South Wales,Rest of Vic.,6278.5013,41553.1093,329
+205,Latrobe - Gippsland,17040,Snowy Monaro Regional,New South Wales,Rest of Vic.,15164.7904,41553.1093,330
+205,Latrobe - Gippsland,17080,Snowy Valleys,New South Wales,Rest of Vic.,8958.9215,41553.1093,331
+215,North West,10300,Balranald,New South Wales,Rest of Vic.,21690.7493,78072.9843,332
+215,North West,15520,Murray River,New South Wales,Rest of Vic.,11863.0162,78072.9843,333
+215,North West,18200,Wentworth,New South Wales,Rest of Vic.,26255.9338,78072.9843,334
+216,Shepparton,10650,Berrigan,New South Wales,Rest of Vic.,2065.8878,10933.8661,335
+216,Shepparton,12870,Federation,New South Wales,Rest of Vic.,5684.9253,10933.8661,336
+216,Shepparton,15520,Murray River,New South Wales,Rest of Vic.,11863.0162,10933.8661,337
+307,Darling Downs - Maranoa,11200,Brewarrina,New South Wales,Rest of Qld,19162.0296,166346.6638,338
+307,Darling Downs - Maranoa,14220,Inverell,New South Wales,Rest of Qld,9404.7564,166346.6638,339
+307,Darling Downs - Maranoa,15300,Moree Plains,New South Wales,Rest of Qld,17902.7033,166346.6638,340
+307,Darling Downs - Maranoa,17400,Tenterfield,New South Wales,Rest of Qld,7324.3072,166346.6638,341
+307,Darling Downs - Maranoa,17900,Walgett,New South Wales,Rest of Qld,22308.2528,166346.6638,342
+309,Gold Coast,14550,Kyogle,New South Wales,Rest of Qld,3584.1829,1857.7774,343
+309,Gold Coast,17550,Tweed,New South Wales,Rest of Qld,1307.7853,1857.7774,344
+310,Ipswich,14550,Kyogle,New South Wales,Greater Brisbane,3584.1829,6681.1781,345
+310,Ipswich,17400,Tenterfield,New South Wales,Greater Brisbane,7324.3072,6681.1781,346
+311,Logan - Beaudesert,14550,Kyogle,New South Wales,Greater Brisbane,3584.1829,2586.163,347
+315,Queensland - Outback,11150,Bourke,New South Wales,Rest of Qld,41598.3722,1183175.1279,348
+315,Queensland - Outback,11200,Brewarrina,New South Wales,Rest of Qld,19162.0296,1183175.1279,349
+315,Queensland - Outback,19399,Unincorporated NSW,New South Wales,Rest of Qld,93208.9194,1183175.1279,350
+406,South Australia - Outback,18200,Wentworth,New South Wales,Rest of SA,26255.9338,877772.5757,351
+406,South Australia - Outback,19399,Unincorporated NSW,New South Wales,Rest of SA,93208.9194,877772.5757,352
+801,Australian Capital Territory,16490,Queanbeyan-Palerang Regional,New South Wales,Australian Capital Territory,5319.0075,2358.133,353
+801,Australian Capital Territory,17040,Snowy Monaro Regional,New South Wales,Australian Capital Territory,15164.7904,2358.133,354
+801,Australian Capital Territory,17080,Snowy Valleys,New South Wales,Australian Capital Territory,8958.9215,2358.133,355
+801,Australian Capital Territory,18710,Yass Valley,New South Wales,Australian Capital Territory,3995.017,2358.133,356
+801,Australian Capital Territory,89399,Unincorporated ACT,Australian Capital Territory,Australian Capital Territory,2358.133,2358.133,357
+901,Other Territories,16950,Shoalhaven,New South Wales,Other Territories,4567.2011,255.742,358
+901,Other Territories,51710,Christmas Island,Other Territories,Other Territories,136.1356,255.742,359
+901,Other Territories,51860,Cocos Islands,Other Territories,Other Territories,13.7258,255.742,360
+901,Other Territories,99399,Unincorp. Other Territories,Other Territories,Other Territories,105.8806,255.742,361

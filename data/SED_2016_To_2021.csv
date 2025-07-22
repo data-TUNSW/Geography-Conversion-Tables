@@ -1,0 +1,450 @@
+SED_CODE_2016,SED_NAME_2016,SED_CODE_2021,SED_NAME_2021,RATIO_FROM_2016_TO_2021
+10001.0,Albury,10001,Albury,1.0
+10004.0,Balmain,10004,Balmain,1.0
+10006.0,Barwon,10006,Barwon,1.0
+10009.0,Bega,10009,Bega,1.0
+10012.0,Cabramatta,10012,Cabramatta,1.0
+10020.0,Coffs Harbour,10020,Coffs Harbour,1.0
+10021.0,Coogee,10021,Coogee,1.0
+10025.0,Drummoyne,10025,Drummoyne,1.0
+10028.0,Epping,10028,Epping,1.0
+10029.0,Fairfield,10029,Fairfield,1.0
+10035.0,Heffron,10035,Heffron,1.0
+10038.0,Keira,10038,Keira,1.0
+10040.0,Kogarah,10040,Kogarah,1.0
+10043.0,Lakemba,10043,Lakemba,1.0
+10051.0,Maroubra,10051,Maroubra,1.0
+10053.0,Monaro,10053,Monaro,1.0
+10054.0,Mount Druitt,10054,Mount Druitt,1.0
+10056.0,Murray,10056,Murray,1.0
+10057.0,Myall Lakes,10057,Myall Lakes,1.0
+10058.0,Newcastle,10058,Newcastle,1.0
+10061.0,Northern Tablelands,10061,Northern Tablelands,1.0
+10062.0,Oatley,10062,Oatley,1.0
+10067.0,Pittwater,10067,Pittwater,1.0
+10069.0,Port Stephens,10069,Port Stephens,1.0
+10071.0,Riverstone,10071,Riverstone,1.0
+10074.0,Seven Hills,10074,Seven Hills,1.0
+10082.0,Terrigal,10082,Terrigal,1.0
+10086.0,Vaucluse,10086,Vaucluse,1.0
+10088.0,Wakehurst,10088,Wakehurst,1.0
+10090.0,Willoughby,10090,Willoughby,1.0
+10091.0,Wollondilly,10091,Wollondilly,1.0
+10092.0,Wollongong,10092,Wollongong,1.0
+19494.0,No usual address (NSW),19494,No usual address (NSW),1.0
+19797.0,Migratory - Offshore - Shipping (NSW),19797,Migratory - Offshore - Shipping (NSW),1.0
+20106.0,Albert Park (Southern Metropolitan),20106,Albert Park (Southern Metropolitan),1.0
+20207.0,Altona (Western Metropolitan),20207,Altona (Western Metropolitan),1.0
+20401.0,Bayswater (Eastern Metropolitan),20401,Bayswater (Eastern Metropolitan),1.0
+20604.0,Benambra (Northern Victoria),20604,Benambra (Northern Victoria),1.0
+20906.0,Bentleigh (Southern Metropolitan),20906,Bentleigh (Southern Metropolitan),1.0
+21203.0,Broadmeadows (Northern Metropolitan),21203,Broadmeadows (Northern Metropolitan),1.0
+21401.0,Bulleen (Eastern Metropolitan),21401,Bulleen (Eastern Metropolitan),1.0
+21503.0,Bundoora (Northern Metropolitan),21503,Bundoora (Northern Metropolitan),1.0
+21805.0,Carrum (South-Eastern Metropolitan),21805,Carrum (South-Eastern Metropolitan),1.0
+21906.0,Caulfield (Southern Metropolitan),21906,Caulfield (Southern Metropolitan),1.0
+22105.0,Cranbourne (South-Eastern Metropolitan),22105,Cranbourne (South-Eastern Metropolitan),1.0
+22201.0,Croydon (Eastern Metropolitan),22201,Croydon (Eastern Metropolitan),1.0
+22305.0,Dandenong (South-Eastern Metropolitan),22305,Dandenong (South-Eastern Metropolitan),1.0
+22901.0,Ferntree Gully (Eastern Metropolitan),22901,Ferntree Gully (Eastern Metropolitan),1.0
+23007.0,Footscray (Western Metropolitan),23007,Footscray (Western Metropolitan),1.0
+23101.0,Forest Hill (Eastern Metropolitan),23101,Forest Hill (Eastern Metropolitan),1.0
+23901.0,Ivanhoe (Eastern Metropolitan),23901,Ivanhoe (Eastern Metropolitan),1.0
+24006.0,Kew (Southern Metropolitan),24006,Kew (Southern Metropolitan),1.0
+24105.0,Keysborough (South-Eastern Metropolitan),24105,Keysborough (South-Eastern Metropolitan),1.0
+24207.0,Kororoit (Western Metropolitan),24207,Kororoit (Western Metropolitan),1.0
+24308.0,Lara (Western Victoria),24308,Lara (Western Victoria),1.0
+24606.0,Malvern (Southern Metropolitan),24606,Malvern (Southern Metropolitan),1.0
+24703.0,Melbourne (Northern Metropolitan),24703,Melbourne (Northern Metropolitan),1.0
+24904.0,Mildura (Northern Victoria),24904,Mildura (Northern Victoria),1.0
+25003.0,Mill Park (Northern Metropolitan),25003,Mill Park (Northern Metropolitan),1.0
+25205.0,Mordialloc (South-Eastern Metropolitan),25205,Mordialloc (South-Eastern Metropolitan),1.0
+25501.0,Mount Waverley (Eastern Metropolitan),25501,Mount Waverley (Eastern Metropolitan),1.0
+25605.0,Mulgrave (South-Eastern Metropolitan),25605,Mulgrave (South-Eastern Metropolitan),1.0
+25704.0,Murray Plains (Northern Victoria),25704,Murray Plains (Northern Victoria),1.0
+25905.0,Narre Warren North (South-Eastern Metrop,25905,Narre Warren North (South-Eastern Metropolitan),1.0
+26005.0,Narre Warren South (South-Eastern Metrop,26005,Narre Warren South (South-Eastern Metropolitan),1.0
+26303.0,Northcote (Northern Metropolitan),26303,Northcote (Northern Metropolitan),1.0
+26406.0,Oakleigh (Southern Metropolitan),26406,Oakleigh (Southern Metropolitan),1.0
+26806.0,Prahran (Southern Metropolitan),26806,Prahran (Southern Metropolitan),1.0
+27003.0,Richmond (Northern Metropolitan),27003,Richmond (Northern Metropolitan),1.0
+27406.0,Sandringham (Southern Metropolitan),27406,Sandringham (Southern Metropolitan),1.0
+27807.0,St Albans (Western Metropolitan),27807,St Albans (Western Metropolitan),1.0
+27907.0,Sunbury (Western Metropolitan),27907,Sunbury (Western Metropolitan),1.0
+28107.0,Tarneit (Western Metropolitan),28107,Tarneit (Western Metropolitan),1.0
+28301.0,Warrandyte (Eastern Metropolitan),28301,Warrandyte (Eastern Metropolitan),1.0
+28408.0,Wendouree (Western Victoria),28408,Wendouree (Western Victoria),1.0
+28607.0,Williamstown (Western Metropolitan),28607,Williamstown (Western Metropolitan),1.0
+29494.0,No usual address (Vic.),29494,No usual address (Vic.),1.0
+29797.0,Migratory - Offshore - Shipping (Vic.),29797,Migratory - Offshore - Shipping (Vic.),1.0
+30010.0,Bulimba,30008,Bulimba,1.0
+30011.0,Bundaberg,30009,Bundaberg,1.0
+30019.0,Capalaba,30017,Capalaba,1.0
+30047.0,Lytton,30045,Lytton,1.0
+30048.0,Mackay,30047,Mackay,1.0
+30054.0,Moggill,30056,Moggill,1.0
+30058.0,Mount Ommaney,30058,Mount Ommaney,1.0
+30069.0,Redcliffe,30071,Redcliffe,1.0
+30071.0,Rockhampton,30073,Rockhampton,1.0
+30072.0,Sandgate,30074,Sandgate,1.0
+30082.0,Toowoomba North,30086,Toowoomba North,1.0
+39494.0,No usual address (Qld),39494,No usual address (Qld),1.0
+39797.0,Migratory - Offshore - Shipping (Qld),39797,Migratory - Offshore - Shipping (Qld),1.0
+40015.0,Flinders,40015,Flinders,1.0
+40028.0,Mackillop,40029,Mackillop,1.0
+49494.0,No usual address (SA),49494,No usual address (SA),1.0
+49797.0,Migratory - Offshore - Shipping (SA),49797,Migratory - Offshore - Shipping (SA),1.0
+50605.0,Bateman (South Metropolitan),50605,Bateman (South Metropolitan),1.0
+50906.0,Bunbury (South West),50906,Bunbury (South West),1.0
+52903.0,Kalgoorlie (Mining and Pastoral),52803,Kalgoorlie (Mining and Pastoral),1.0
+53003.0,Kimberley (Mining and Pastoral),52903,Kimberley (Mining and Pastoral),1.0
+53104.0,Kingsley (North Metropolitan),53004,Kingsley (North Metropolitan),1.0
+54104.0,Nedlands (North Metropolitan),54104,Nedlands (North Metropolitan),1.0
+54505.0,Riverton (South Metropolitan),54505,Riverton (South Metropolitan),1.0
+55005.0,Southern River (South Metropolitan),55005,Southern River (South Metropolitan),1.0
+55605.0,Warnbro (South Metropolitan),55605,Warnbro (South Metropolitan),1.0
+55706.0,Warren-Blackwood (South West),55706,Warren-Blackwood (South West),1.0
+59494.0,No usual address (WA),59494,No usual address (WA),1.0
+59797.0,Migratory - Offshore - Shipping (WA),59797,Migratory - Offshore - Shipping (WA),1.0
+60112.0,Bass (Rosevears),60113,Bass (Rosevears),1.0
+60115.0,Bass (Windermere),60115,Bass (Windermere),1.0
+60214.0,Braddon (Western Tiers),60207,Braddon (Mersey),1.0
+60402.0,Franklin (Derwent),60514,Lyons (Rumney),1.0
+60512.0,Lyons (Rosevears),60113,Bass (Rosevears),1.0
+69494.0,No usual address (Tas.),69494,No usual address (Tas.),1.0
+69797.0,Migratory - Offshore - Shipping (Tas.),69797,Migratory - Offshore - Shipping (Tas.),1.0
+70001.0,Arafura,70001,Arafura,1.0
+70007.0,Brennan,70007,Brennan,1.0
+70008.0,Casuarina,70008,Casuarina,1.0
+70009.0,Daly,70009,Daly,1.0
+70015.0,Karama,70016,Karama,1.0
+70020.0,Nightcliff,70021,Nightcliff,1.0
+70021.0,Port Darwin,70022,Port Darwin,1.0
+70022.0,Sanderson,70023,Sanderson,1.0
+79494.0,No usual address (NT),79494,No usual address (NT),1.0
+79797.0,Migratory - Offshore - Shipping (NT),79797,Migratory - Offshore - Shipping (NT),1.0
+80001.0,Brindabella,80001,Brindabella,1.0
+80002.0,Ginninderra,80002,Ginninderra,1.0
+89494.0,No usual address (ACT),89494,No usual address (ACT),1.0
+89797.0,Migratory - Offshore - Shipping (ACT),89797,Migratory - Offshore - Shipping (ACT),1.0
+99191.0,Unclassified (OT),99191,Unclassified (OT),1.0
+99494.0,No usual address (OT),99494,No usual address (OT),1.0
+99797.0,Migratory - Offshore - Shipping (OT),99797,Migratory - Offshore - Shipping (OT),1.0
+,,52903,Kimberley (Mining and Pastoral),1.0
+60209.0,Braddon (Murchison),60209,Braddon (Murchison),0.9999999
+10068.0,Port Macquarie,10068,Port Macquarie,0.9999999
+10046.0,Liverpool,10046,Liverpool,0.9999999
+10030.0,Gosford,10030,Gosford,0.9999999
+23205.0,Frankston (South-Eastern Metropolitan),23205,Frankston (South-Eastern Metropolitan),0.9999998
+50805.0,Bicton (South Metropolitan),50805,Bicton (South Metropolitan),0.9999997
+55202.0,Thornlie (East Metropolitan),55202,Thornlie (East Metropolitan),0.9999993
+10036.0,Holsworthy,10036,Holsworthy,0.9999641
+10023.0,Cronulla,10023,Cronulla,0.999959
+21706.0,Burwood (Southern Metropolitan),21706,Burwood (Southern Metropolitan),0.9999387
+10052.0,Miranda,10052,Miranda,0.9999329
+50702.0,Belmont (East Metropolitan),50702,Belmont (East Metropolitan),0.9999327
+10048.0,Macquarie Fields,10048,Macquarie Fields,0.9997426
+60302.0,Denison (Derwent),60301,Clark (Derwent),0.9996871
+10041.0,Ku-ring-gai,10041,Ku-ring-gai,0.9996347
+10063.0,Orange,10063,Orange,0.9996142
+10003.0,Ballina,10003,Ballina,0.9995546
+10033.0,Hawkesbury,10033,Hawkesbury,0.9995091
+10055.0,Mulgoa,10055,Mulgoa,0.9994336
+28704.0,Yan Yean (Northern Victoria),28704,Yan Yean (Northern Victoria),0.999427
+10042.0,Lake Macquarie,10042,Lake Macquarie,0.9993909
+24408.0,Lowan (Western Victoria),24408,Lowan (Western Victoria),0.9993296
+10007.0,Bathurst,10007,Bathurst,0.9993171
+10087.0,Wagga Wagga,10087,Wagga Wagga,0.9992948
+23702.0,Hastings (Eastern Victoria),23702,Hastings (Eastern Victoria),0.9992859
+10079.0,Swansea,10079,Swansea,0.9992629
+27305.0,Rowville (South-Eastern Metropolitan),27305,Rowville (South-Eastern Metropolitan),0.9992387
+10039.0,Kiama,10039,Kiama,0.9991972
+10064.0,Oxley,10064,Oxley,0.9991784
+10047.0,Londonderry,10047,Londonderry,0.9991703
+40033.0,Mount Gambier,40033,Mount Gambier,0.9990537
+10015.0,Canterbury,10015,Canterbury,0.9989494
+22607.0,Essendon (Western Metropolitan),22607,Essendon (Western Metropolitan),0.9989382
+10014.0,Campbelltown,10014,Campbelltown,0.9989032
+10083.0,The Entrance,10083,The Entrance,0.9988655
+10060.0,North Shore,10060,North Shore,0.998858
+10013.0,Camden,10013,Camden,0.9988115
+20302.0,Bass (Eastern Victoria),20302,Bass (Eastern Victoria),0.9987733
+30083.0,Toowoomba South,30087,Toowoomba South,0.99876
+22005.0,Clarinda (South-Eastern Metropolitan),22005,Clarinda (South-Eastern Metropolitan),0.9987264
+25402.0,Morwell (Eastern Victoria),25402,Morwell (Eastern Victoria),0.9986971
+70013.0,Goyder (NT),70013,Goyder,0.9986062
+10019.0,Clarence,10019,Clarence,0.9985603
+28507.0,Werribee (Western Metropolitan),28507,Werribee (Western Metropolitan),0.9985442
+28007.0,Sydenham (Western Metropolitan),28007,Sydenham (Western Metropolitan),0.9985302
+54605.0,Rockingham (South Metropolitan),54605,Rockingham (South Metropolitan),0.9984957
+70010.0,Drysdale,70010,Drysdale,0.9984864
+25302.0,Mornington (Eastern Victoria),25302,Mornington (Eastern Victoria),0.9984603
+10022.0,Cootamundra,10022,Cootamundra,0.9984328
+10005.0,Bankstown,10005,Bankstown,0.9984279
+10077.0,Strathfield,10077,Strathfield,0.998406
+23308.0,Geelong (Western Victoria),23308,Geelong (Western Victoria),0.9983671
+10024.0,Davidson,10024,Davidson,0.9983599
+10016.0,Castle Hill,10016,Castle Hill,0.9983124
+10084.0,Tweed,10084,Tweed,0.998306
+10049.0,Maitland,10049,Maitland,0.9982814
+10070.0,Prospect,10070,Prospect,0.9982657
+10072.0,Rockdale,10072,Rockdale,0.9982648
+10065.0,Parramatta,10065,Parramatta,0.9981568
+30074.0,Southern Downs,30077,Southern Downs,0.9980882
+22404.0,Eildon (Northern Victoria),22404,Eildon (Northern Victoria),0.9979886
+10027.0,East Hills,10027,East Hills,0.9979308
+53902.0,Mount Lawley (East Metropolitan),53902,Mount Lawley (East Metropolitan),0.9978839
+10044.0,Lane Cove,10044,Lane Cove,0.997843
+10073.0,Ryde,10073,Ryde,0.9978012
+50202.0,Armadale (East Metropolitan),50202,Armadale (East Metropolitan),0.9977913
+10037.0,Hornsby,10037,Hornsby,0.9977373
+27708.0,South-West Coast (Western Victoria),27708,South-West Coast (Western Victoria),0.9977094
+10018.0,Charlestown,10018,Charlestown,0.9976715
+70025.0,Wanguri,70025,Wanguri,0.997662
+22501.0,Eltham (Eastern Metropolitan),22501,Eltham (Eastern Metropolitan),0.9976328
+10075.0,Shellharbour,10075,Shellharbour,0.9976253
+10081.0,Tamworth,10081,Tamworth,0.9976104
+24504.0,Macedon (Northern Victoria),24504,Macedon (Northern Victoria),0.9975648
+10050.0,Manly,10050,Manly,0.9975309
+10017.0,Cessnock,10017,Cessnock,0.9973209
+27101.0,Ringwood (Eastern Metropolitan),27101,Ringwood (Eastern Metropolitan),0.9973085
+10059.0,Newtown,10059,Newtown,0.9972906
+23502.0,Gippsland East (Eastern Victoria),23502,Gippsland East (Eastern Victoria),0.9971445
+30084.0,Townsville,30088,Townsville,0.9970881
+10008.0,Baulkham Hills,10008,Baulkham Hills,0.9968128
+27608.0,South Barwon (Western Victoria),27608,South Barwon (Western Victoria),0.99679
+53402.0,Maylands (East Metropolitan),53402,Maylands (East Metropolitan),0.996769
+23402.0,Gembrook (Eastern Victoria),23402,Gembrook (Eastern Victoria),0.9965764
+23806.0,Hawthorn (Southern Metropolitan),23806,Hawthorn (Southern Metropolitan),0.9964958
+30024.0,Cook,30021,Cook,0.9964657
+10032.0,Granville,10032,Granville,0.9963767
+26102.0,Nepean (Eastern Victoria),26102,Nepean (Eastern Victoria),0.9963585
+28203.0,Thomastown (Northern Metropolitan),28203,Thomastown (Northern Metropolitan),0.9963301
+27504.0,Shepparton (Northern Victoria),27504,Shepparton (Northern Victoria),0.9963004
+20508.0,Bellarine (Western Victoria),20508,Bellarine (Western Victoria),0.9961937
+10010.0,Blacktown,10010,Blacktown,0.9961887
+10026.0,Dubbo,10026,Dubbo,0.9961841
+21303.0,Brunswick (Northern Metropolitan),21303,Brunswick (Northern Metropolitan),0.9961555
+52301.0,Geraldton (Agricultural),52301,Geraldton (Agricultural),0.9960126
+10045.0,Lismore,10045,Lismore,0.9960037
+10066.0,Penrith,10066,Penrith,0.995972
+26603.0,Pascoe Vale (Northern Metropolitan),26603,Pascoe Vale (Northern Metropolitan),0.9958694
+22802.0,Evelyn (Eastern Victoria),22802,Evelyn (Eastern Victoria),0.9958644
+20704.0,Bendigo East (Northern Victoria),20704,Bendigo East (Northern Victoria),0.9957956
+10031.0,Goulburn,10031,Goulburn,0.9957683
+27208.0,Ripon (Western Victoria),27208,Ripon (Western Victoria),0.9957418
+53802.0,Morley (East Metropolitan),53802,Morley (East Metropolitan),0.9956527
+52102.0,Forrestfield (East Metropolitan),52102,Forrestfield (East Metropolitan),0.9955737
+23602.0,Gippsland South (Eastern Victoria),23602,Gippsland South (Eastern Victoria),0.995505
+10080.0,Sydney,10080,Sydney,0.9954935
+51804.0,Cottesloe (North Metropolitan),51804,Cottesloe (North Metropolitan),0.995348
+26504.0,Ovens Valley (Northern Victoria),26504,Ovens Valley (Northern Victoria),0.9953282
+10011.0,Blue Mountains,10011,Blue Mountains,0.9952252
+26903.0,Preston (Northern Metropolitan),26903,Preston (Northern Metropolitan),0.9952221
+10034.0,Heathcote,10034,Heathcote,0.9949272
+25102.0,Monbulk (Eastern Victoria),25102,Monbulk (Eastern Victoria),0.9948009
+10085.0,Upper Hunter,10085,Upper Hunter,0.9947996
+28803.0,Yuroke (Northern Metropolitan),28803,Yuroke (Northern Metropolitan),0.9947431
+25802.0,Narracan (Eastern Victoria),25802,Narracan (Eastern Victoria),0.9945884
+10076.0,South Coast,10076,South Coast,0.9941123
+10093.0,Wyong,10093,Wyong,0.993882
+10002.0,Auburn,10002,Auburn,0.993773
+55306.0,Vasse (South West),55306,Vasse (South West),0.9934474
+54403.0,Pilbara (Mining and Pastoral),54403,Pilbara (Mining and Pastoral),0.9933862
+70019.0,Nhulunbuy,70018,Mulka,0.9930451
+21001.0,Box Hill (Eastern Metropolitan),21001,Box Hill (Eastern Metropolitan),0.9924803
+10078.0,Summer Hill,10078,Summer Hill,0.9922116
+54203.0,North West Central (Mining and Pastoral),54203,North West Central (Mining and Pastoral),0.9918263
+52802.0,Kalamunda (East Metropolitan),52702,Kalamunda (East Metropolitan),0.9915373
+10089.0,Wallsend,10089,Wallsend,0.9907015
+26207.0,Niddrie (Western Metropolitan),26207,Niddrie (Western Metropolitan),0.9904233
+26708.0,Polwarth (Western Victoria),26708,Polwarth (Western Victoria),0.9903964
+54905.0,South Perth (South Metropolitan),54905,South Perth (South Metropolitan),0.9886915
+20804.0,Bendigo West (Northern Victoria),20804,Bendigo West (Northern Victoria),0.9884921
+70018.0,Nelson,70020,Nelson,0.9876312
+21106.0,Brighton (Southern Metropolitan),21106,Brighton (Southern Metropolitan),0.9871861
+22704.0,Euroa (Northern Victoria),22704,Euroa (Northern Victoria),0.986609
+60410.0,Franklin (Nelson),60410,Franklin (Nelson),0.9860795
+21608.0,Buninyong (Western Victoria),21608,Buninyong (Western Victoria),0.9802411
+50106.0,Albany (South West),50106,Albany (South West),0.9802049
+24808.0,Melton (Western Victoria),24808,Melton (Western Victoria),0.9786434
+51205.0,Cannington (South Metropolitan),51205,Cannington (South Metropolitan),0.977273
+40018.0,Giles,40019,Giles,0.9710591
+52205.0,Fremantle (South Metropolitan),52205,Fremantle (South Metropolitan),0.9622744
+53306.0,Mandurah (South West),53306,Mandurah (South West),0.9587715
+53502.0,Midland (East Metropolitan),53502,Midland (East Metropolitan),0.9565548
+54701.0,Roe (Agricultural),54701,Roe (Agricultural),0.9559205
+30059.0,Mudgeeraba,30059,Mudgeeraba,0.9554683
+30057.0,Mount Isa,30089,Traeger,0.9545922
+30004.0,Aspley,30002,Aspley,0.9543106
+70014.0,Johnston,70015,Johnston,0.9523819
+30020.0,Chatsworth,30018,Chatsworth,0.9517009
+53701.0,Moore (Agricultural),53701,Moore (Agricultural),0.9513474
+70005.0,Blain,70005,Blain,0.9480071
+52006.0,Dawesville (South West),52006,Dawesville (South West),0.9466958
+54304.0,Perth (North Metropolitan),54304,Perth (North Metropolitan),0.946369
+51706.0,Collie-Preston (South West),51706,Collie-Preston (South West),0.9456217
+40005.0,Chaffey,40005,Chaffey,0.9454255
+40001.0,Adelaide,40001,Adelaide,0.9382212
+30028.0,Everton,30025,Everton,0.9381876
+51504.0,Churchlands (North Metropolitan),51504,Churchlands (North Metropolitan),0.9372631
+30036.0,Hervey Bay,30033,Hervey Bay,0.9349955
+51401.0,Central Wheatbelt (Agricultural),51401,Central Wheatbelt (Agricultural),0.9321702
+52605.0,Jandakot (South Metropolitan),52505,Jandakot (South Metropolitan),0.9312461
+55405.0,Victoria Park (South Metropolitan),55405,Victoria Park (South Metropolitan),0.9311562
+80003.0,Kurrajong,80003,Kurrajong,0.9261096
+30049.0,Mansfield,30049,Mansfield,0.9230895
+60413.0,Franklin (Rumney),60414,Franklin (Rumney),0.9214971
+30026.0,Currumbin,30024,Currumbin,0.9199517
+60405.0,Franklin (Huon),60404,Franklin (Huon),0.9177749
+30044.0,Keppel,30041,Keppel,0.914007
+54006.0,Murray-Wellington (South West),54006,Murray-Wellington (South West),0.9123359
+60304.0,Denison (Hobart),60303,Clark (Hobart),0.9099073
+80005.0,Yerrabi,80005,Yerrabi,0.908633
+30034.0,Gregory,30031,Gregory,0.9058334
+60207.0,Braddon (Mersey),60207,Braddon (Mersey),0.9048139
+70016.0,Katherine,70017,Katherine,0.8965469
+30051.0,Maryborough,30051,Maryborough,0.8932614
+30031.0,Gladstone,30028,Gladstone,0.891862
+30015.0,Burnett,30013,Burnett,0.8908741
+80004.0,Murrumbidgee,80004,Murrumbidgee,0.8886684
+54804.0,Scarborough (North Metropolitan),54804,Scarborough (North Metropolitan),0.8881444
+40010.0,Dunstan,40010,Dunstan,0.8862097
+60310.0,Denison (Nelson),60310,Clark (Nelson),0.884799
+50502.0,Bassendean (East Metropolitan),50502,Bassendean (East Metropolitan),0.8844413
+51902.0,Darling Range (East Metropolitan),51902,Darling Range (East Metropolitan),0.8843782
+51304.0,Carine (North Metropolitan),51304,Carine (North Metropolitan),0.8789171
+50304.0,Balcatta (North Metropolitan),50304,Balcatta (North Metropolitan),0.8788343
+70024.0,Stuart (NT),70014,Gwoja,0.8743989
+30053.0,Mirani,30055,Mirani,0.8734365
+30035.0,Gympie,30032,Gympie,0.8719264
+30076.0,Springwood,30079,Springwood,0.8712349
+60208.0,Braddon (Montgomery),60208,Braddon (Montgomery),0.870942
+60411.0,Franklin (Pembroke),60411,Franklin (Pembroke),0.8659152
+60303.0,Denison (Elwick),60302,Clark (Elwick),0.8559437
+30007.0,Brisbane Central,30052,McConnel,0.8543868
+30018.0,Caloundra,30016,Caloundra,0.8532691
+30073.0,South Brisbane,30076,South Brisbane,0.8532515
+55905.0,Willagee (South Metropolitan),55905,Willagee (South Metropolitan),0.852406
+30077.0,Stafford,30080,Stafford,0.8493031
+40007.0,Colton,40007,Colton,0.8488394
+30033.0,Greenslopes,30030,Greenslopes,0.8482534
+30050.0,Maroochydore,30050,Maroochydore,0.847672
+70012.0,Fong Lim,70012,Fong Lim,0.8456754
+70023.0,Spillett,70024,Spillett,0.8433342
+30022.0,Cleveland,30068,Oodgeroo,0.8414967
+40006.0,Cheltenham,40006,Cheltenham,0.8410262
+30005.0,Barron River,30004,Barron River,0.8410104
+30088.0,Woodridge,30093,Woodridge,0.8396977
+51104.0,Butler (North Metropolitan),51104,Butler (North Metropolitan),0.8392008
+30040.0,Ipswich,30037,Ipswich,0.8380283
+70003.0,Arnhem,70003,Arnhem,0.8371266
+40024.0,Kavel,40025,Kavel,0.832018
+70004.0,Barkly,70004,Barkly,0.8308163
+70002.0,Araluen,70002,Araluen,0.8284681
+30087.0,Whitsunday,30092,Whitsunday,0.8265492
+50405.0,Baldivis (South Metropolitan),50405,Baldivis (South Metropolitan),0.8242251
+40003.0,Bragg,40004,Bragg,0.821968
+51605.0,Cockburn (South Metropolitan),51605,Cockburn (South Metropolitan),0.8197277
+30081.0,Thuringowa,30084,Thuringowa,0.8153824
+52504.0,Hillarys (North Metropolitan),52404,Hillarys (North Metropolitan),0.8128994
+30014.0,Burleigh,30012,Burleigh,0.8123423
+60305.0,Denison (Huon),60304,Clark (Huon),0.8120592
+40044.0,Unley,40044,Unley,0.8118978
+60513.0,Lyons (Rumney),60512,Lyons (Prosser),0.8043287
+30043.0,Kawana,30040,Kawana,0.80422
+30061.0,Mundingburra,30061,Mundingburra,0.8038046
+30030.0,Gaven,30027,Gaven,0.7973243
+30070.0,Redlands,30072,Redlands,0.7932185
+30041.0,Ipswich West,30038,Ipswich West,0.7913374
+40040.0,Schubert,40040,Schubert,0.7868644
+30016.0,Cairns,30014,Cairns,0.7848405
+53205.0,Kwinana (South Metropolitan),53105,Kwinana (South Metropolitan),0.784277
+60502.0,Lyons (Derwent),60501,Lyons (Derwent),0.7835532
+40019.0,Goyder (SA),40034,Narungga,0.7825983
+30063.0,Nanango,30063,Nanango,0.7825068
+55504.0,Wanneroo (North Metropolitan),55504,Wanneroo (North Metropolitan),0.7804973
+30078.0,Stretton,30081,Stretton,0.7801743
+30006.0,Beaudesert,30075,Scenic Rim,0.7799486
+40031.0,Morialta,40031,Morialta,0.7759005
+70011.0,Fannie Bay,70011,Fannie Bay,0.7727034
+40021.0,Hartley,40021,Hartley,0.7719806
+51004.0,Burns Beach (North Metropolitan),51004,Burns Beach (North Metropolitan),0.7693343
+30060.0,Mulgrave,30060,Mulgrave,0.7686433
+30065.0,Noosa,30066,Noosa,0.7681438
+40039.0,Reynell,40039,Reynell,0.7644342
+30009.0,Buderim,30007,Buderim,0.755091
+52704.0,Joondalup (North Metropolitan),52604,Joondalup (North Metropolitan),0.7531054
+55102.0,Swan Hills (East Metropolitan),55102,Swan Hills (East Metropolitan),0.753067
+60101.0,Bass (Apsley),60106,Bass (McIntyre),0.7518104
+30052.0,Mermaid Beach,30053,Mermaid Beach,0.746553
+40032.0,Morphett,40032,Morphett,0.7460014
+30066.0,Nudgee,30067,Nudgee,0.7438343
+30067.0,Pine Rivers,30069,Pine Rivers,0.7399084
+40036.0,Playford,40016,Florey,0.7394538
+70006.0,Braitling,70006,Braitling,0.7389121
+30062.0,Murrumba,30003,Bancroft,0.7307437
+30038.0,Inala,30036,Inala,0.7284122
+30013.0,Burdekin,30011,Burdekin,0.7266076
+30037.0,Hinchinbrook,30035,Hinchinbrook,0.7235591
+30021.0,Clayfield,30019,Clayfield,0.7147945
+30064.0,Nicklin,30064,Nicklin,0.7120538
+40026.0,Light,40028,Light,0.7103935
+40046.0,West Torrens,40046,West Torrens,0.7085681
+40022.0,Heysen,40022,Heysen,0.7045381
+70017.0,Namatjira,70019,Namatjira,0.7010355
+30023.0,Condamine,30020,Condamine,0.6945453
+30039.0,Indooroopilly,30048,Maiwar,0.6932175
+30045.0,Lockyer,30043,Lockyer,0.6930811
+30085.0,Warrego,30090,Warrego,0.6917855
+60106.0,Bass (Launceston),60105,Bass (Launceston),0.6914834
+30086.0,Waterford,30091,Waterford,0.6849023
+30089.0,Yeerongpilly,30054,Miller,0.6808722
+30012.0,Bundamba,30010,Bundamba,0.6701584
+30029.0,Ferny Grove,30026,Ferny Grove,0.667929
+40004.0,Bright,40003,Black,0.665146
+30017.0,Callide,30015,Callide,0.6558179
+30080.0,Surfers Paradise,30082,Surfers Paradise,0.6543562
+30032.0,Glass House,30029,Glass House,0.6522122
+30042.0,Kallangur,30062,Murrumba,0.6492964
+40008.0,Croydon,40008,Croydon,0.6476308
+40043.0,Torrens,40043,Torrens,0.6454541
+40009.0,Davenport,40045,Waite,0.6382811
+40023.0,Kaurna,40024,Kaurna,0.633786
+40013.0,Finniss,40014,Finniss,0.6312856
+40035.0,Newland,40035,Newland,0.6287323
+30003.0,Ashgrove,30023,Cooper,0.6280817
+40020.0,Hammond,40020,Hammond,0.6269097
+30068.0,Pumicestone,30070,Pumicestone,0.6238932
+53602.0,Mirrabooka (East Metropolitan),53602,Mirrabooka (East Metropolitan),0.6142038
+60514.0,Lyons (Western Tiers),60506,Lyons (McIntyre),0.6133194
+40014.0,Fisher,40009,Davenport,0.5989534
+40002.0,Ashford,40002,Badcoe,0.5827489
+40025.0,Lee,40027,Lee,0.5783719
+60501.0,Lyons (Apsley),60512,Lyons (Prosser),0.5775838
+30008.0,Broadwater,30006,Broadwater,0.5702528
+40029.0,Mawson,40023,Hurtle Vale,0.5697953
+30002.0,Algester,30001,Algester,0.5691884
+30079.0,Sunnybank,30085,Toohey,0.5688731
+52404.0,Girrawheen (North Metropolitan),53204,Landsdale (North Metropolitan),0.5677004
+30055.0,Morayfield,30057,Morayfield,0.5612725
+30027.0,Dalrymple,30034,Hill,0.5556696
+40017.0,Frome,40041,Stuart,0.5509363
+55802.0,West Swan (East Metropolitan),55802,West Swan (East Metropolitan),0.5498067
+40012.0,Enfield,40013,Enfield,0.5494255
+40047.0,Wright,40026,King,0.5485726
+40038.0,Ramsay,40038,Ramsay,0.5467479
+40034.0,Napier,40012,Elizabeth,0.5328969
+30075.0,Southport,30078,Southport,0.5240347
+30056.0,Mount Coot-tha,30048,Maiwar,0.5169029
+40041.0,Stuart (SA),40041,Stuart,0.504576
+40037.0,Port Adelaide,40037,Port Adelaide,0.4897216
+40011.0,Elder,40011,Elder,0.4591001
+30046.0,Logan,30044,Logan,0.4378293
+30025.0,Coomera,30022,Coomera,0.4195376
+40027.0,Little Para,40012,Elizabeth,0.4181121
+30001.0,Albert,30083,Theodore,0.4101106
+40045.0,Waite,40011,Elder,0.4073572
+40042.0,Taylor,40038,Ramsay,0.3854852
+40016.0,Florey,40035,Newland,0.3829484
+40030.0,Mitchell,40018,Gibson,0.3532909

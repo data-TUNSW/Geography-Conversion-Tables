@@ -1,1 +1,3 @@
-*.pyc
+src/*
+src/*.py
+src/*.ipynb
